@@ -32,7 +32,7 @@ def sorted_matrix
     "Watermelon"],
     ,ORGANIC_PRODUCE
     "Strawberries", "Asparagus"
-  "Potatoes",
+  "Potatoes",       
   "Grapes",
   "Avocadoes",
   "Asparagus"
