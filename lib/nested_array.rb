@@ -33,7 +33,7 @@ def sorted_matrix
     ,ORGANIC_PRODUCE
     "Strawberries", "Asparagus"
   "Potatoes",       "Avocadoes",
-  "Grapes",
+  "Grapes",          "Grapes",
   "Avocadoes",
   "Asparagus"
     
