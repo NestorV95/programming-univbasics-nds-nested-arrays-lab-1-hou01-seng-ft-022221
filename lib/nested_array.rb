@@ -30,7 +30,9 @@ def sorted_matrix
     "Oranges",
     "Pineapple",
     "Watermelon"],
-    ,ORGANIC_PRODUCE]
+    ,ORGANIC_PRODUCE
+    
+    
 end
 
 def matrix_lookup(matrix, row, column)
