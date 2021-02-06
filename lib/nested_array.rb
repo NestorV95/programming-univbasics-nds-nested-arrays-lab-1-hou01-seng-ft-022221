@@ -35,7 +35,7 @@ def sorted_matrix
   "Potatoes",       "Avocadoes",
   "Grapes",          "Grapes",
   "Avocadoes",        "Potatoes",
-  "Asparagus"
+  "Asparagus"    
     
 end
 
