@@ -28,6 +28,7 @@ def sorted_matrix
     "Eggplant",
     "Grapefruit",
     "Oranges",
+    
     ,ORGANIC_PRODUCE]
 end
 
