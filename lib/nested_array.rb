@@ -26,7 +26,7 @@ def sorted_matrix
   # However, this time, sort each internal array alphabetically by the first character
   array=[CONVENTIONAL_PRODUCE => [ 
     "Eggplant",
-    
+    "Grapefruit",
     ,ORGANIC_PRODUCE]
 end
 
