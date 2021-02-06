@@ -30,7 +30,7 @@ def sorted_matrix
     "Oranges",
     "Pineapple",
     "Watermelon"],
-    ,ORGANIC_PRODUCE => []
+    ,ORGANIC_PRODUCE => [
     "Asparagus",
     "Avocadoes",
     "Grapes",
