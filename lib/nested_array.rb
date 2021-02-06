@@ -29,7 +29,7 @@ def sorted_matrix
     "Grapefruit",
     "Oranges",
     "Pineapple",
-    
+    "Watermelon"],
     ,ORGANIC_PRODUCE]
 end
 
