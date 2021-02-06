@@ -27,6 +27,7 @@ def sorted_matrix
   array=[CONVENTIONAL_PRODUCE => [ 
     "Eggplant",
     "Grapefruit",
+    
     ,ORGANIC_PRODUCE]
 end
 
